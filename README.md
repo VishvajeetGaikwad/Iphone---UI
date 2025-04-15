@@ -22,7 +22,8 @@ This project showcases smooth animations, 3D product visuals, and interactive sc
 
 ## 📸 Screenshots
 
-[🚀 Live Preview on Render](https://brainwave-ui-y2qs.onrender.com)
+[🚀 Live Preview on Render](https://iphone-ui.onrender.com)
+
 
 
 
