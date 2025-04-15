@@ -24,7 +24,7 @@ This project showcases smooth animations, 3D product visuals, and interactive sc
 
 ![iPhone Showcase](./public/assets/images/screenshot.png)
 
-> _(Optional: Add a screenshot of your deployed site here)_
+
 
 ## 🔧 Installation
 
