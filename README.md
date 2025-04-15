@@ -22,15 +22,8 @@ This project showcases smooth animations, 3D product visuals, and interactive sc
 
 ## 📸 Screenshots
 
-![iPhone Showcase](./public/assets/images/screenshot.png)
+[🚀 Live Preview on Render](https://brainwave-ui-y2qs.onrender.com)
 
 
 
-## 🔧 Installation
 
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/iphone-15-pro-showcase.git
-cd iphone-15-pro-showcase
-```
