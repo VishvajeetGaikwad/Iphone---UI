@@ -20,7 +20,7 @@ This project showcases smooth animations, 3D product visuals, and interactive sc
 - **GSAP** – Animation library for seamless UI transitions
 - **Three.js** – 3D rendering library for WebGL graphics
 
-## 📸 Screenshots
+## 📸 Live Preview
 
 [🚀 Live Preview on Render](https://iphone-ui.onrender.com)
 
